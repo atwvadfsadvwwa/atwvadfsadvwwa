@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atwvadfsadvwwa&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atwvadfsadvwwa&theme=dark&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atwvadfsadvwwa&langs_count=5&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **atwvadfsadvwwa/atwvadfsadvwwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
